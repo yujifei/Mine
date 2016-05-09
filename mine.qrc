@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/failed.png</file>
+        <file>images/win.png</file>
+        <file>images/mine.png</file>
+        <file>images/flag.svg</file>
+        <file>images/errflag.svg</file>
+        <file>images/bang.svg</file>
+    </qresource>
+</RCC>
